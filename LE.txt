@@ -92,6 +92,32 @@ Page 14
 		I'm not wearing shoes
 		I'm not reading a newspaper
 Page 16
+	Ex 4.1
+		Are you going now?
+		Is it raining?
+		Are you enjoying the film?
+		Is that clock working?
+		Are you writing a letter?
+	Ex 4.2
+		Where is she going?
+		What are you eating?
+		Why are you crying?
+		What are they looking at?
+		Why is he laughing?
+	Ex 4.3
+		Are you listening to me?
+		Where are your friends going?
+		Are your parents watching tv?
+		What is Ann cooking?
+		Why are you looking at me?
+		Is the bus coming?
+	Ex 4.4
+		No, I'm not
+		No, I'm not
+		No, it isn't
+		No, I'm not
+		Yes, I am
+
 
 
 
