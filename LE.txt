@@ -279,18 +279,18 @@ Page 26
 Page 28
 	Unit 10
 	Ex 10.1
-		Carol and Jack were in cinema
-		Sue was in station
-		Mr and Mrs Hall were in restaurant
-		Ben was in beach
-		I was in bed
+		Carol and Jack were in the cinema
+		Sue was in the station
+		Mr and Mrs Hall were in a restaurant
+		Ben was on the beach
+		I was in the bed
 	Ex 10.2
 		Today the weather is nice, but yesterday it was very cold
 		I'am hungry. Can I have something to eat?
 		I feel fine this morning but I was very tired last night
 		Where were you at 11 o'clock last Friday morning?
 		Don't buy those shoes. They are very expensive
-		I like your new jacket. Is it expensive?
+		I like your new jacket. Is was expensive?
 		This time last year I was in Paris 
 		Where are the children? I don't know. They were in the garden ten minutes ago
 	Ex 10.3
@@ -298,8 +298,16 @@ Page 28
 		Yesterday was a public holiday so the shops were closed. They're open today
 		Were Sue and Bill at the party? Sue was there but Bill wasn't
 		Were are my keys? I don't know. They were on the table but they're not there now
-		You wasn't at home last night. Where was you?
-
+		You weren't at home last night. Where were you?
+	Ex 10.4
+		Was your exam difficult?
+		Where were Ann and Chris last week?
+		How much was your new camera?
+		Why were you angry yesterday?
+		Was the weather nice last week?
+Page 30
+	Unit 11
+	Ex 11.1
 
 
 		
