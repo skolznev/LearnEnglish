@@ -318,6 +318,15 @@ Page 30
 	Ex 11.2
 		saw, played, paid, visited, bought, went, thought, copied, knew, put, spoke
 	Ex 11.3
+		get up, has
+		left, drive
+		arrived, perked, went
+		had, went
+		waited, departed
+		arrived
+		took
+	Ex 11.4
+		
 
 		
 
