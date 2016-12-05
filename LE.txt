@@ -318,15 +318,30 @@ Page 30
 	Ex 11.2
 		saw, played, paid, visited, bought, went, thought, copied, knew, put, spoke
 	Ex 11.3
-		get up, has
-		left, drive
-		arrived, perked, went
+		got up, had
+		left, drove
+		arrived, parked, went
 		had, went
 		waited, departed
 		arrived
 		took
 	Ex 11.4
+		She lost her keys last week
+		She met her friends yesterday evening
+		Yesterday I bought two newspapers
+		Last Sunday we went to the cinema
+		Yesterday I ate an orange 
+		This morning he had a shower
+		They came to see us last Friday
+	Ex 11.5
+		Yesterday I drove my car
+		Yesterday I ate very much :)
+		I saw my friends yesterday
+		I played tennis two weeks ago
+
 		
+		
+
 
 		
 
