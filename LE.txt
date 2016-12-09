@@ -343,11 +343,11 @@ Page 32
 	Ex 12.1
 		didn't work
 		didn't go
-		didn't has
+		didn't have
 		didn't do 
 	Ex 12.2
 		Did you enjoy the party?
-		Did you have a goog holiday?
+		Did you have a good holiday?
 		Did you finish work early?
 		Did you sleep well last night?
 	Ex 12.3
@@ -369,8 +369,15 @@ Page 32
 		Did it rain yesterday?
 		didn't stay long
 		opened
-		didn't
-		How did I do that?
+		didn't have
+		How did you do that?
+Page 34
+	Unit 13
+	Ex 13.1
+		Carol and Jack were in the cinema. They were watching a film.
+		Tom was in his car. He was driving.
+
+
 
 		
 		
