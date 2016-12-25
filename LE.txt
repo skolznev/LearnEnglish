@@ -472,10 +472,15 @@ Page 40
 		Have you met new your neighbours yet?
 		Have you written the letter yet?
 		Has Tom sold his car yet?
+
+# Рисую общую схему
+# Рисунок 1
+
 Page 42
 	Unit 16
 	Ex 16.1
-	сначала... нарисовать схему!
+	
+
 		
 
 
