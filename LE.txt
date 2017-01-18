@@ -478,8 +478,8 @@ Page 40
 # Рисунок 2 page 18
 
 Page 42
-	Unit 16
-	Ex 16.1
+	Unit 17
+	Ex 17.1
 	
 
 		
