@@ -480,14 +480,28 @@ Page 40
 Page 42
 	Unit 17
 	Ex 17.1
-	Have you ever been to Australia?
-	Have you ever lost you passport?
-	Have you ever flown in a helicopter?
-	Have you ever eaten Chinese food?
-	Have you ever been to New York?
-	Have you ever driven a bus?
-	Have you ever broken your leg?
+		Have you ever been to Australia?
+		Have you ever lost you passport?
+		Have you ever flown in a helicopter?
+		Have you ever eaten Chinese food?
+		Have you ever been to New York?
+		Have you ever driven a bus?
+		Have you ever broken your leg?
 	Ex 17.2
+		Helen hasn't been to Australia
+		Helen has eaten Chinese food
+		Helen never hasn't driven a bus
+		I never been to New York
+		I have played tennis
+		I never flown in a helicopter
+		I never been late for work or school
+	Ex 17.3
+		She has been married three times
+		She has done a lot of interesting things
+		She has written ten books
+		She has traveled all over the world
+		She has met a lot of interesting people
+	Ex 17.4
 	
 
 		
