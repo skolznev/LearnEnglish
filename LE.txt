@@ -548,18 +548,31 @@ Page 46
 		Two years ago
 		Two weeks ago
 		12 hours ago
-		Month ago
+		a month ago
 	Ex 19.3
 		for, ago, ago, ago, for, for, ago
 	Ex 19.4
 		He has been here since Tuesday
-		It's been raining for hour
-		I've met Sue for two years
-		I,ve had camera since 1989
+		It's been raining for an hour
+		I've known Sue for two years
+		I,ve had a camera since 1989
 		They,ve been married for six months
-		She has studying medicine for three years
-		Dave has play the piano since seven years
+		She has been studying medicine for three years
+		Dave has played the piano since he was seven years old
 	Ex 19.5
+		I've lived here for three years
+		I've been in Moscow a year ago
+		I've been learning programming since 6 o'clock
+		I've known my friends for a long time
+		I've had a car for three years
+Page 48
+	Unit 20
+	Ex 20.1
+		Yes, I started my job last week
+		Yes, they've been arrived at 5 o,clock
+		Yes, Sarah gone away on Friday
+		Yes, I worn new shoes yesterday
+
 	
 
 
