@@ -572,6 +572,14 @@ Page 48
 		Yes, they've been arrived at 5 o,clock
 		Yes, Sarah gone away on Friday
 		Yes, I worn new shoes yesterday
+	Ex 20.2
+		Wrong: I finished my work
+		Right
+		Right
+		Right
+		Wrong: died in
+		Right
+	Ex 20.3
 
 	
 
