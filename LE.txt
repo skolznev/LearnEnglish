@@ -580,6 +580,26 @@ Page 48
 		Wrong: died in
 		Right
 	Ex 20.3
+		played
+		did you go
+		Have you ever met
+		wasn't
+		I've just washed
+		I washed
+		has visited
+		not came
+	Ex 20.4
+		1) Have you a good time?
+		Yes, it was great
+		2) Have you seen him?
+		Yes, he went out a few minutes ago
+		I don't see her.
+		3) She has worked there for six months.
+		Before that she was a waitress in a restaurant.
+		She worked there for two years but she don't enjoyed it very much
+		4) I saw her a few times but I have never spoken to her.
+		Have you ever speak to her?
+		Yes. I met her at a party last week. She's very nice.		
 
 	
 
