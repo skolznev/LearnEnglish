@@ -569,16 +569,16 @@ Page 48
 	Unit 20
 	Ex 20.1
 		Yes, I started my job last week
-		Yes, they've been arrived at 5 o,clock
-		Yes, Sarah gone away on Friday
-		Yes, I worn new shoes yesterday
+		Yes, they arrived at 5 o,clock
+		Yes, Sarah went away on Friday
+		Yes, I wore new shoes yesterday
 	Ex 20.2
 		Wrong: I finished my work
 		Right
+		Wrong: did you finish
 		Right
-		Right
-		Wrong: died in
-		Right
+		Wrong: died
+		Wrong: were were you
 	Ex 20.3
 		played
 		did you go
@@ -587,18 +587,18 @@ Page 48
 		I've just washed
 		I washed
 		has visited
-		not came
+		hasn't come
 	Ex 20.4
-		1) Have you a good time?
+		1) Did you have a good time?
 		Yes, it was great
 		2) Have you seen him?
 		Yes, he went out a few minutes ago
-		I don't see her.
+		I haven't seen her.
 		3) She has worked there for six months.
 		Before that she was a waitress in a restaurant.
-		She worked there for two years but she don't enjoyed it very much
-		4) I saw her a few times but I have never spoken to her.
-		Have you ever speak to her?
+		She worked there for two years but she didn't enjoy it very much
+		4) I've seen her a few times but I've never spoken to her.
+		Have you ever spoken to her?
 		Yes. I met her at a party last week. She's very nice.		
 
 	
