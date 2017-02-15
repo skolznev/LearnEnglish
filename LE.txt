@@ -710,6 +710,41 @@ Page 54
 Page 56
 	Unit 24
 	Ex 24.1
+		got
+		brought
+		paid
+		enjoyed
+		bought
+		sat
+		left
+		happened
+		heard
+		put
+		caught
+		watched
+		understood
+	Ex 24.2
+		began - bagun
+		ate - eaten
+		drank - drunk
+		drove - driven
+		ran - run 
+		spoke - spoken
+		wrote - written
+		came - come
+		knew - know
+		took - taken
+		went - gone
+		gave - given
+		threw - thrown
+		forgot - forgotten
+	Ex 25.3
+		I feel good. I slept very well last night
+		We seen a very good film yesterday
+		It rained a lot while we were on holiday
+		I've lost my bag. Have you seen it?
+		Rosa's bicycle was stolen last night
+
 	
 
 
