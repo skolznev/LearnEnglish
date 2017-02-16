@@ -738,12 +738,26 @@ Page 56
 		gave - given
 		threw - thrown
 		forgot - forgotten
-	Ex 25.3
+	Ex 24.3
 		I feel good. I slept very well last night
 		We seen a very good film yesterday
 		It rained a lot while we were on holiday
 		I've lost my bag. Have you seen it?
 		Rosa's bicycle was stolen last night
+		I went to bed early because I was tired
+		Have you finished your work yet?
+		The shopping center was built about 20 years ago
+		Ann learned to drive when she was 18
+		I've never rode a horse
+		Julia is a good friend of mine. I've knew her for a long time
+		Yesterday I fell and hurt my leg
+	Ex 24.4
+		Have you told John about your new job?
+		We didn't play very well but we won 
+		I know Gary but I've never met his wife
+		We were woke up by loud music in the middle of the night
+		
+
 
 	
 
