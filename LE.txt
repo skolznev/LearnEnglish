@@ -724,7 +724,7 @@ Page 56
 		watched
 		understood
 	Ex 24.2
-		began - bagun
+		began - begun
 		ate - eaten
 		drank - drunk
 		drove - driven
@@ -732,7 +732,7 @@ Page 56
 		spoke - spoken
 		wrote - written
 		came - come
-		knew - know
+		knew - known
 		took - taken
 		went - gone
 		gave - given
@@ -740,7 +740,7 @@ Page 56
 		forgot - forgotten
 	Ex 24.3
 		I feel good. I slept very well last night
-		We seen a very good film yesterday
+		We saw a very good film yesterday
 		It rained a lot while we were on holiday
 		I've lost my bag. Have you seen it?
 		Rosa's bicycle was stolen last night
@@ -748,15 +748,24 @@ Page 56
 		Have you finished your work yet?
 		The shopping center was built about 20 years ago
 		Ann learned to drive when she was 18
-		I've never rode a horse
-		Julia is a good friend of mine. I've knew her for a long time
+		I've never ridden a horse
+		Julia is a good friend of mine. I've known her for a long time
 		Yesterday I fell and hurt my leg
 	Ex 24.4
 		Have you told John about your new job?
 		We didn't play very well but we won 
 		I know Gary but I've never met his wife
-		We were woke up by loud music in the middle of the night
-		
+		We were woken up by loud music in the middle of the night
+		Stephanie jumped into the river and swam to the other side
+		Yes, I thought it was very good
+		Many different languages are spoken in the Philippines
+		Our holiday cost a lot of money because we stayed in an expensive hotel
+		Have you ever driven a very fast car?
+		All the tickets for the concert were sold very quickly
+		A bird flew in through the open window while we were having our dinner
+Page 58
+	Unit 25
+	Ex 25.1		
 
 
 	
