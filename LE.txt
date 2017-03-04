@@ -875,7 +875,7 @@ Page 66
 	Unit 29
 	Ex 29.1
 		I'll send you a postcard
-		I won't eat it
+		I'll eat it
 		I'll sit on the floor
 		I'll do it now
 		I'll stay here
@@ -890,9 +890,28 @@ Page 66
 		I think I'll go for a walk
 		Jim is going to buy a new car
 		I'll give it to her
-		Will you do anything this evening?
+		Are you doing anything this evening?
 		Yes, I'm going out with some friends
 	Ex 29.4
+		Shall I turn off the TV?
+		Shall I make some sandwiches?
+		Shall I turn on the light?
+	Ex 29.5
+		Ok, where shell we go?
+		Ok, what shall we buy?
+		Ok, who shall we invite?
+Page 68
+	Unit 30
+	Ex 30.1
+		I might see you tomorrow
+		Ann might forget to phone
+		It might show today
+		I might be late tonight
+		Mary might not be here
+		I might not have time to meet you
+	Ex 30.2
+		
+
 		
 
 		
