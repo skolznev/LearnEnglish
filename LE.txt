@@ -930,6 +930,20 @@ Page 68
 Page 70
 	Unit 31
 	Ex 31.1
+		Can you skiing?
+		Can you play chess?
+		Can you run kilometres?
+		Can you drive?
+		Can you ride a horse?
+
+		I can swim
+		I can't skiing
+		I can play chess
+		I can run kilometres
+		I can drive
+		I can't ride a horse
+	Ex 31.2
+		
 		
 
 		
