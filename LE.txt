@@ -930,19 +930,38 @@ Page 68
 Page 70
 	Unit 31
 	Ex 31.1
-		Can you skiing?
+		Can you ski?
 		Can you play chess?
-		Can you run kilometres?
+		Can you run ten kilometres?
 		Can you drive?
 		Can you ride a horse?
 
 		I can swim
-		I can't skiing
+		I can't ski
 		I can play chess
-		I can run kilometres
+		I can run ten kilometres
 		I can drive
 		I can't ride a horse
 	Ex 31.2
+		You can see
+		I can't hear you
+		I can't find it
+		she can speak five lang
+	Ex 31.3
+		I couldn't eat my dinner
+		She can't decide
+		I couldn't find him
+		Jim can't go to the concert
+		Paula couldn't go to the meeting last week
+	Ex 31.4
+		Can you pass the salt?
+		Can you turn of tomato soup?
+		Can you give me your phone number?
+		Can I borrow your pen?
+Page 72
+	Unit 32
+	Ex 32.1	
+
 		
 		
 
