@@ -1057,7 +1057,29 @@ Page 76
 		I had to buy something yesterday
 Page 78
 	Unit 35
-	Ex 35.1	
+	Ex 35.1
+		Would you like an apple?
+		Would you like some coffee?
+		Would you like cheese?
+		Would you like sandwiches?
+		Would you like a pice of cake?
+	Ex 35.2
+		Would you like to play tennis tomorrow?
+		Would you like to see some holiday photographs?
+		Would you like to go a concert next week?
+		Would you like to borrow an umbrella?
+	Ex 35.3
+		Do you like
+		Would you like
+		What do you like
+		Would you like
+		I like
+		Would you like
+		Would you like
+		Do you like
+		I'd like
+		
+
 		
 		
 		
