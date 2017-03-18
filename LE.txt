@@ -1060,26 +1060,38 @@ Page 78
 	Ex 35.1
 		Would you like an apple?
 		Would you like some coffee?
-		Would you like cheese?
-		Would you like sandwiches?
-		Would you like a pice of cake?
+		Would you like some cheese?
+		Would you like a sandwich?
+		Would you like a piece of cake?
 	Ex 35.2
 		Would you like to play tennis tomorrow?
-		Would you like to see some holiday photographs?
-		Would you like to go a concert next week?
-		Would you like to borrow an umbrella?
+		Would you like to see my holiday photographs?
+		Would you like to go to a concert next week?
+		Would you like to borrow my umbrella?
 	Ex 35.3
 		Do you like
 		Would you like
-		What do you like
+		Would you like
 		Would you like
 		I like
 		Would you like
 		Would you like
 		Do you like
 		I'd like
-		
-
+Page 80
+	Unit 36
+	Ex 36.1		
+		There's a hospital
+		There isn't a swi pool
+		There are two cinemas
+		There isn't a university
+		There aren't any big hotels
+	Ex 36.2
+		There are a few churches
+		There is international airport
+		There are a lot of restaurants
+		There ara a lot of universitys
+	Ex 36.3
 		
 		
 		
