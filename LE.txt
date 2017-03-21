@@ -1082,7 +1082,7 @@ Page 80
 	Unit 36
 	Ex 36.1		
 		There's a hospital
-		There isn't a swi pool
+		There isn't a swimming pool
 		There are two cinemas
 		There isn't a university
 		There aren't any big hotels
@@ -1099,7 +1099,7 @@ Page 80
 		No, there isn't a film in the camera
 		Is there a bus the city centre to the airport?
 		Are there any problem?
-		There isn't nowhere to sit down. There are any chairs.
+		There is nowhere to sit down. There are any chairs.
 	Ex 36.4
 		There are nine planets in the solar system
 		There are thirty days in September
@@ -1110,11 +1110,12 @@ Page 80
 		It's very expensive
 		There's something in my eye 
 		There's a red car outside the house. Is it yours?
-		Is there anything on TV tonight? Yes, it's a film at 8.15
+		Is there anything on TV tonight? Yes, there's a film at 8.15
 		It's school
-		Is there a restaurant in this hotel? 
-
-		
+		Is there a restaurant in this hotel?
+Page 82
+	Unit 37
+	Ex 37.1
 		
 
 		
