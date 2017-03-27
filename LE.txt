@@ -1148,7 +1148,7 @@ Page 84
 		It's cold
 		It's windy
 		It's sunny
-		It's snowy
+		It's snowing
 		It's cloudy
 	Ex 38.2
 		It's
@@ -1160,15 +1160,15 @@ Page 84
 		It is
 		It is
 	Ex 38.3
-		How far is it from hotel to the beach?
+		How far is it from the hotel to the beach?
 		How far is it from NY to Washington?
 		How far is it from your home to the airport?
 	Ex 38.4
 		It was a nice day
 		There isn't any snow
 		It's hot in this room
-		there was very dark 
-		It was a storm last night
+		it was very dark 
+		There was a storm last night
 		It's a long way from here
 	Ex 38.5
 		It's nice to see you again.
@@ -1176,7 +1176,9 @@ Page 84
 		It's easy to make friends.
 		It's interesting to visit different places.
 		It's dangerous to go out alone.
-
+Page 86
+	Unit 39
+	Ex 39.1	
 
 
 		
