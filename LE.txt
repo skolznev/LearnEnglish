@@ -1178,7 +1178,27 @@ Page 84
 		It's dangerous to go out alone.
 Page 86
 	Unit 39
-	Ex 39.1	
+	Ex 39.1
+		does
+		can
+		have
+		was 
+		was
+	Ex 39.2
+		isn't
+		weren't 
+		haven't 
+		doesn't 
+		hasn't 
+	Ex 39.3
+		doesn't 
+		do
+		did
+		does
+		doesn't
+		don't 
+	Ex 39.4
+		
 
 
 		
