@@ -1179,40 +1179,40 @@ Page 84
 Page 86
 	Unit 39
 	Ex 39.1
-		does
+		is
 		can
-		have
-		was 
+		has
+		will 
 		was
 	Ex 39.2
-		isn't
+		'm not
 		weren't 
 		haven't 
-		doesn't 
+		isn't 
 		hasn't 
 	Ex 39.3
 		doesn't 
 		do
 		did
 		does
-		doesn't
-		don't 
+		don't
+		didn't 
 	Ex 39.4
-		I like ice-cream but my friend doesn't 
-		I don't write letters but my friend does 
-		I'm live in Russia but my friend doesn't
-		I haven't bicycle but my brother have
+		I like ice-cream but my friend dont't 
+		I don't write letters but my friend do 
+		I'm live in Russia but my friend don't
+		I haven't bicycle but my brother has
 	Ex 39.5
 		wasn't 
-		is
-		have
-		don't 
-		do
+		are
+		has
+		can't 
+		did
 		has
 		do
 		hasn't 
 		will
-		I am
+		might
 	Ex 39.6
 		Yes, I have
 		Yes, I do 
@@ -1222,8 +1222,10 @@ Page 86
 		No, I won't 
 		Yes, I have
 		Yes, I did
-		Yes, I do 
-
+		Yes, I was
+Page 88
+	Unit 40
+	Ex 40.1
 
 
 
