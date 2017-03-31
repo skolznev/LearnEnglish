@@ -1226,6 +1226,13 @@ Page 86
 Page 88
 	Unit 40
 	Ex 40.1
+		Do you?
+		Didn't you?
+		Doesn't she?
+		Am I?
+		Did she?
+	Ex 40.2
+		
 
 
 
