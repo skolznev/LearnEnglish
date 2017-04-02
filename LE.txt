@@ -1229,9 +1229,40 @@ Page 88
 		Do you?
 		Didn't you?
 		Doesn't she?
-		Am I?
+		Do I?
 		Did she?
 	Ex 40.2
+		Have you?
+		Can't she?
+		Were you?
+		Didn't you?
+		Is there?
+		Aren't you?
+		Did you?
+		Does she?
+		Won't you?
+		Isn't it?
+	Ex 40.3
+		aren't they?
+		wasn't she?
+		haven't you?
+		don't you?
+		doesn't he?
+		wont't you?
+	Ex 40.4
+		are you?
+		isn't she?
+		can't you?
+		do you?
+		didn't she?
+		was it?
+		doesn't she?
+		will you?
+Page 90
+	Unit 41
+	Ex 41.1
+
+
 		
 
 
