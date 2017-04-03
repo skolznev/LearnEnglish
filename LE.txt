@@ -1261,7 +1261,25 @@ Page 88
 Page 90
 	Unit 41
 	Ex 41.1
+		either
+		too
+		too
+		either
+		either
+		too
+	Ex 41.2
+		So am I
+		So have I
+		So do I
+		So will I
+		So was I
 
+		Neither do I
+		Neither did I
+		Neither have I
+		Neither am I
+		Neither do I
+	Ex 41.3
 
 		
 
