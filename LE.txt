@@ -1274,12 +1274,27 @@ Page 90
 		So will I
 		So was I
 
-		Neither do I
+		Neither can I
 		Neither did I
 		Neither have I
 		Neither am I
 		Neither do I
 	Ex 41.3
+		So am I
+		So can I
+		Neither am I
+		So do I
+		I do
+		So did I
+		Neither have I
+		Neither do I
+		I'm not
+		Neither have I
+		Neither did I
+		So do I
+Page 92
+	Unit 41
+	Ex 41.1
 
 		
 
