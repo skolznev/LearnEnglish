@@ -1297,7 +1297,7 @@ Page 92
 	Ex 42.1
 		They aren't married
 		I haven't had dinner
-		I isn't cold today
+		It isn't cold today
 		We won't be late
 		You shouldn't go
 	Ex 42.2
@@ -1305,7 +1305,7 @@ Page 92
 		They didn't understand
 		He doesn't live here
 		Don't go away!
-		I didn't the shopping
+		I didn't do the shopping
 	Ex 42.3
 		They haven't arrived
 		I didn't go to the bank
@@ -1326,20 +1326,32 @@ Page 92
 		I didn't like the film very much.
 		I haven't been to Portugal.
 		Julia won't be here tomorrow.
-		I don't do it.
-		We didn't looking at the time.
+		I didn't do it.
+		We weren't looking at the time.
 	Ex 42.5
-		He weren't born in London.
+		He wasn't born in London.
 		He doesn't like London.
-		He likes to live in the country.
+		He'd like to live in the country.
 		He can drive.
-		He haven't got a car.
+		He hasn't got a car.
 		He doesn't read newspapers.
 		He isn't interested in politics.
 		He watches TV most evenings.
 		He didn't watch TV last night.
-		He goes out last night.
-
+		He went out last night.
+Page 94
+	Unit 43
+	Ex 43.1
+		Were you late this morning?
+		Has Ann got a key?
+		Will you be here tomorrow?
+		Does Paul going out this evening?
+		Do you like your job?
+		Does Linda live near here?
+		Did you enjoy your holiday?
+		Did you have shower this morning?
+	Ex 43.2
+		
 
 
 
