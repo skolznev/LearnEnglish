@@ -1395,6 +1395,16 @@ Page 96
 		Who did you see?
 		Who has got my pen?
 		What does word meen?
+
+		Who phoned you last night?
+		What did she want?
+
+		Who asked you?
+		What did he say?
+
+		Who got married last week?
+		What did tell you?
+		
 	
 
 
