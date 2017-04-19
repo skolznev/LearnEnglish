@@ -1418,19 +1418,19 @@ Page 98
 	Ex 45.1
 		What are you looking for?
 		Who did you go to the cinema with?
-		What was film about?
-		Who did you give money to?
+		What was the film about?
+		Who did you give the money to?
 		Who was the book written by?
 	Ex 45.2
-		What are they looking for?
-		Who's write letter to?
+		What are they looking at?
+		Who's he writing to?
 		What are they talking about?
-		What is he listen to?
-		Which bus are they wait to?
+		What is she listening to?
+		Which bus are they waiting for?
 	Ex 45.3
-		Which hotel are you stay at?
-		Which football team Jack plays for?
-		Which school in this town you went to?
+		Which hotel did you stay at?
+		Which football team does Jack play for?
+		Which school did you go to?
 	Ex 45.4
 		What is the food like?
 		What are the people like?
@@ -1439,7 +1439,14 @@ Page 98
 		What was the film like?
 		What were the lessons like?
 		What was the hotel like?
-
+Page 100
+	Unit 46
+	Ex 46.1
+		What color your sweater?
+		What time did you get up?
+		What type music do you like?
+		What kind a car do you want?
+	Ex 46.2
 		
 
 
