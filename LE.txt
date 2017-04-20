@@ -1447,6 +1447,20 @@ Page 100
 		What type music do you like?
 		What kind a car do you want?
 	Ex 46.2
+		Which dress is yours?
+		Which film do you want to see?
+		Which bus goes to the center?
+	Ex 46.3
+		Which do you prefer?
+		What day is it today?
+		Which room is yours?
+		What is your favourite sport?
+		Which is more expensive, meat or fish?
+		Who is older, Ann or George?
+		What kind of camera have you got?
+		Which camera does she use most?
+		What nationality are you?
+	Ex 46.4
 		
 
 
