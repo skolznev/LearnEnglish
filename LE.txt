@@ -1442,12 +1442,12 @@ Page 98
 Page 100
 	Unit 46
 	Ex 46.1
-		What color your sweater?
+		What color is it?
 		What time did you get up?
-		What type music do you like?
-		What kind a car do you want?
+		What type of music do you like?
+		What kind of car do you want?
 	Ex 46.2
-		Which dress is yours?
+		Which coat is yours?
 		Which film do you want to see?
 		Which bus goes to the center?
 	Ex 46.3
@@ -1464,14 +1464,27 @@ Page 100
 		How far is it to the station?
 		How old is Helen?
 		How often do the buses run?
-		How hight is the water in the pool?
+		How deep is the water in the pool?
 		How long have you lived here?
 	Ex 46.5
-		How weigh is this box?
+		How heavy is this box?
 		How old are you?
 		Hom much did you spend?
 		How often do you watch TV?
-		How much miles is from Paris to Moscow?
+		How far is it from Paris to Moscow?
+Page 102
+	Unit 47
+	Ex 47.1
+		How long does it take by car from Milan to Rome?
+		How long does it take by train from Paris from Geneva?
+		How long does it take by bus from city center from airport?
+	Ex 47.2
+		It take twelve hours to fly from my city to NY.
+		It take six years to study to be a doctor in my country.
+		It take two minutes to walk from my home to nearest shop.
+		It take 30 minutes to get from your home to nearest airport.
+	Ex 47.3
+	
 
 
 		
