@@ -1476,15 +1476,27 @@ Page 102
 	Unit 47
 	Ex 47.1
 		How long does it take by car from Milan to Rome?
-		How long does it take by train from Paris from Geneva?
-		How long does it take by bus from city center from airport?
+		How long does it take by train from Paris to Geneva?
+		How long does it take by bus from city center to the airport?
 	Ex 47.2
 		It take twelve hours to fly from my city to NY.
 		It take six years to study to be a doctor in my country.
 		It take two minutes to walk from my home to nearest shop.
-		It take 30 minutes to get from your home to nearest airport.
+		It take 30 minutes to get from my home to nearest airport.
 	Ex 47.3
-	
+		How long did it take you to walk to the station?
+		How long did it take him to clean the windows?
+		How long did it take you to learn to ski?
+		How long did it take them to repair the car?
+	Ex 47.4
+		It took us 20 minutes to walk home.
+		It took me 6 months to learn to drive.
+		It took him 2 hours to get to London.
+		It took her Linda a long time to find a job.
+		It took me 1 year to learn English.
+Page 104
+	Unit 48
+	Ex 48.1
 
 
 		
