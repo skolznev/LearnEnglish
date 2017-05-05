@@ -1497,14 +1497,14 @@ Page 102
 Page 104
 	Unit 48
 	Ex 48.1
-		I don't know where Kate is.
-		I don't know how old the castle is.
-		I don't know when Paul will be here.
-		I don't know why he angry was.
-		I don't know how long Sally has lived here.
+		I don't know where she is.
+		I don't know how old it is.
+		I don't know when he'll be here.
+		I don't know why he was angry.
+		I don't know how long she has lived here.
 	Ex 48.2
 		I don't know where Susan works.
-		Do you remember what Peter saw?
+		Do you remember what Peter said?
 		I don't know why he went home early.
 		Do you know what time the film begins?
 		I don't remember how the accident happened.
@@ -1521,16 +1521,22 @@ Page 104
 		Do you know if he passed his exam?
 	Ex 48.5
 		Do you know where Paula is?
-		Do you know she working today is?
-		Do you know what time she start works?
-		Do you know the shops open tomorrow are?
+		Do you know she is working today?
+		Do you know what time she start work?
+		Do you know the shops are open tomorrow?
 		Do you know where Sarah and Tim live?
-		Do you know they to Ann's party went?
+		Do you know they went to Ann's party?
 	Ex 48.6
 		Do you know what time the shops open are?
-		Excuse me, can you tell me where station is?
+		Excuse me, can you tell me where the station is?
 		I don't know what the parte was start?
 		Do you know if they've got a house?
+Page 106
+	Unit 49
+	Ex 49.1
+		She said she was very busy.
+		She said she couldn't go to the party.
+		
 		
 	
 
