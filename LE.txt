@@ -1564,14 +1564,14 @@ Page 106
 Page 108
 	Unit 50
 	Ex 50.1
-		Can you to phone Paul?
+		Can you phone Paul?
 		Shall I phone Paul?
 		I'd like to phone Paul.
-		Do you have phone Paul?
-		You should to phone Paul.
+		Do you have to phone Paul?
+		You should phone Paul.
 		I want to phone Paul.
-		I might to phone Paul.
-		You must to phone Paul.
+		I might phone Paul.
+		You must phone Paul.
 	Ex 50.2
 		get up
 		going
@@ -1579,17 +1579,17 @@ Page 108
 		flying
 		listening
 		eat
-		wait
-		wearing
-		doing - stay
+		waiting
+		wear
+		doing - staying
 	Ex 50.3
-		go
-		raining
+		to go
+		rain
 		to leave
 		help 
 		studying
 		to go
-		wear
+		wearing
 		to stay
 		have
 		having
@@ -1597,9 +1597,29 @@ Page 108
 		hear
 		go
 		listening
-		make
+		to make
 		to know - tell
 		use
+Page 110
+	Unit 51
+	Ex 51.1
+		to see
+		to swim
+		cleaning
+		to go
+		visiting
+		going
+		to be
+		waiting
+		to do
+		to speak
+		to ask
+		crying
+		to work + talking
+	Ex 51.2
+	
+
+
 		
 
 
