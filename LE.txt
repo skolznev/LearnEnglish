@@ -1711,7 +1711,7 @@ Page 116
 		- 
 		on
 		for 
-		on
+		 on
 	Ex 54.2
 		Last Saturday Diane went fishing
 		George go swimming every day
@@ -1730,7 +1730,9 @@ Page 116
 		B: We're going to Portugal
 Page 118
 	Unit 55
-	Ex 55.1		
+	Ex 55.1
+	Where did you get your jacket?
+	
 		
 		
 		
