@@ -1831,6 +1831,21 @@ Page 124
 		them
 		her
 	Ex 58.2
+		I - them
+		He - Her
+		They - Us
+		We - Him
+		She - Them
+		They - Me
+		She - You
+	Ex 58.3
+		I like he.
+		I don't like it.
+		Do you like it?
+		I don't like him.
+		I like them.
+	Ex 58.4
+		
 	
 
 
