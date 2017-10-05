@@ -1839,12 +1839,31 @@ Page 124
 		They - Me
 		She - You
 	Ex 58.3
-		I like he.
+		I like him.
 		I don't like it.
 		Do you like it?
-		I don't like him.
-		I like them.
+		I don't like her.
+		Do you like them?
 	Ex 58.4
+		him
+		them
+		they
+		us
+		she
+		them
+		me
+		her
+		He-it
+	Ex 58.5
+		give it to him
+		give them to her
+		give it to me
+		give it to them
+		give them to us
+Page 126
+	Unit 59
+	Ex 59.1
+
 		
 	
 
