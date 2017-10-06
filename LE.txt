@@ -1863,6 +1863,29 @@ Page 124
 Page 126
 	Unit 59
 	Ex 59.1
+		her hands
+		our hands
+		his hands
+		their hands
+		your hands
+	Ex 59.2
+		their
+		our
+		her
+		my
+		his
+		your
+		their
+	Ex 59.3
+		their
+		his
+		his
+		her
+		their
+		her
+		their
+		
+
 
 		
 	
