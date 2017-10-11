@@ -1905,7 +1905,26 @@ Page 126
 		Our house
 Page 128
 	Unit 60
-	Ex 60.1		
+	Ex 60.1
+		mine
+		ours
+		hers
+		theirs
+		yours
+		mine
+		his
+	Ex 60.2
+		yours
+		my - mine
+		Yours - mine
+		her
+		My - hers
+		theirs
+		Ours
+	Ex 60.3
+	
+
+
 
 
 		
