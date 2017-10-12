@@ -1922,6 +1922,20 @@ Page 128
 		theirs
 		Ours
 	Ex 60.3
+		of her
+		of ours
+		of mine
+		of his
+		of mine
+	Ex 60.4
+		Whose camera is this? It's his.
+		Whose gloves is this? They is mine.
+		Whose hat is this? It's his.
+		Whose money is this? It's yours.
+		Whose books is this? It's ours.
+	
+
+
 	
 
 
