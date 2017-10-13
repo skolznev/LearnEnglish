@@ -1919,20 +1919,28 @@ Page 128
 		Yours - mine
 		her
 		My - hers
-		theirs
+		their
 		Ours
 	Ex 60.3
-		of her
+		of hers
 		of ours
 		of mine
 		of his
-		of mine
+		of yours
 	Ex 60.4
-		Whose camera is this? It's his.
-		Whose gloves is this? They is mine.
+		Whose camera is this? It's hers.
+		Whose gloves are this? They are mine.
 		Whose hat is this? It's his.
 		Whose money is this? It's yours.
-		Whose books is this? It's ours.
+		Whose books are these? They're ours.
+Page 130
+	Unit 61
+	Ex 61.1
+		her - her
+		Yes, I know them, but I don't remember their name.
+		Yes, I know you, but I don't remember your name.
+	Ex 61.2
+
 	
 
 
