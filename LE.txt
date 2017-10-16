@@ -1940,6 +1940,22 @@ Page 130
 		Yes, I know them, but I don't remember their name.
 		Yes, I know you, but I don't remember your name.
 	Ex 61.2
+		him at his
+		them at their
+		to stay with me at my house
+		to stay with her at her house
+		to stay with you at your house
+	Ex 61.3
+		my - hers
+		his - mine
+		our - theirs
+		her - his
+		your - ours
+		their - yours
+	Ex 61.4
+		
+
+
 
 	
 
