@@ -1970,7 +1970,31 @@ Page 132
 		myself
 		himself
 		yourself
+		yourselves
+	Ex 62.2
+		When I saw him, he was by himself.
+		Don't go out by yourself.
+		I went to the cinema by myself.
+		My sister lives by herself.
+		Many people live be themselves.
+	Ex 62.3
+		They can't see each other.
+		They often write to each other.
+		They don't know each other.
+		They are sitting next to each other.
+		They gave a present each other.
+	Ex 62.4
+		each other
+		yourselves
+		us
+		ourselves
+		each other
+		each other
+		them
 		themselves
+Page 134
+	Unit 63
+	Ex 63.1
 
 
 
