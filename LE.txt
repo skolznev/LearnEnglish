@@ -1995,6 +1995,36 @@ Page 132
 Page 134
 	Unit 63
 	Ex 63.1
+		Brian's
+		James is Julia's brother.
+		James is Daniel's uncle.
+		Julia is Paul's wife.
+		Mary is Daniel's grandmother.
+		Julia is James's sister.
+		Paul is Julia's husband.
+		Pual is Daniel's father.
+		Daniel is James's nephew.
+	Ex 63.2
+		Andy's
+		David's
+		Jane's
+		Diane's
+		Alice's
+	Ex 63.3
+		OK
+		Bill's the phone number
+		my brother's job
+		OK
+		OK
+		Paula's the favourite color
+		your mother's birthday
+		My parents' house
+		OK
+		OK
+		Silvia's party
+		The hotel manager's
+		
+
 
 
 
