@@ -2067,6 +2067,38 @@ Page 138
 		holidays
 		potatoes
 	Ex 65.2
+		teeth
+		people
+		children
+		fish
+		leaves
+	Ex 65.3
+		trees
+		men
+		Many sheep eat grass
+		children
+		friends
+		pyjamas
+		OK
+		people
+		trousers
+		tourists
+		OK
+		scissors
+	Ex 65.4
+		are
+		doesn't
+		watches
+		were
+		lives
+		Does
+		are
+		them
+		some
+
+
+
+
 	
 
 
