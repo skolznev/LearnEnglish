@@ -2059,11 +2059,11 @@ Page 138
 		woman
 		cities
 		umbrellas
-		adreses
+		adresses
 		knives
 		sandwiches
-		familes
-		foots
+		families
+		feet
 		holidays
 		potatoes
 	Ex 65.2
@@ -2075,7 +2075,7 @@ Page 138
 	Ex 65.3
 		trees
 		men
-		Many sheep eat grass
+		OK
 		children
 		friends
 		pyjamas
@@ -2087,15 +2087,17 @@ Page 138
 		scissors
 	Ex 65.4
 		are
-		doesn't
-		watches
+		don't
+		watch
 		were
-		lives
-		Does
+		live
+		Do
 		are
 		them
 		some
-
+Page 140
+	Unit 66
+	Ex 66.1
 
 
 
