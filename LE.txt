@@ -2098,6 +2098,18 @@ Page 138
 Page 140
 	Unit 66
 	Ex 66.1
+		a jug
+		milk
+		toothpaste
+		a toothbrush
+		an agg
+		money
+		a wallet
+		sand
+		a bucket
+		an envelope
+	Ex 66.2
+		
 
 
 
