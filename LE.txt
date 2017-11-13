@@ -2109,6 +2109,30 @@ Page 140
 		a bucket
 		an envelope
 	Ex 66.2
+		a hat
+		a job
+		OK
+		an
+		a
+		OK
+		an
+		a
+		OK
+		an
+		a
+		a
+		OK
+		an
+	Ex 66.3
+		a bar of wood
+		a glass of water
+		a piece of chpcolate
+		a cup of tea
+		a piece of paper
+		a bowl of soup
+		a loaf of bread
+		a jar of honey
+
 		
 
 
