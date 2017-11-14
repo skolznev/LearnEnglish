@@ -2114,24 +2114,38 @@ Page 140
 		OK
 		an
 		a
-		OK
+		a
 		an
 		a
 		OK
-		an
+		a
 		a
 		a
 		OK
 		an
 	Ex 66.3
-		a bar of wood
+		a piece of wood
 		a glass of water
-		a piece of chpcolate
+		a bar of chocolate
 		a cup of tea
 		a piece of paper
 		a bowl of soup
 		a loaf of bread
 		a jar of honey
+Page 142
+	Unit 67
+	Ex 67.1
+		I bought a newspaper, flowers and a pen.
+		I bought a bread, some postcards and some stamps.
+		I bought a toothpaste, a soap and a comb.
+	Ex. 67.2
+		Would you like some coffee?
+		Would you like a biscuit?
+		Would you like some bread?
+		Would you like some chocolate?
+		Would you like a chocolate?
+	Ex 67.3
+	
 
 		
 
