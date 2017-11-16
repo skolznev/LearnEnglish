@@ -2145,6 +2145,22 @@ Page 142
 		Would you like some chocolate?
 		Would you like a chocolate?
 	Ex 67.3
+		I need some money. I want to buy some food.
+		We met a  interesting people at the party.
+		I'm going to open a window to get some fresh air.
+		She didn't eat much for lunch - only an apple and some bread.
+		We live in a big house. There's a nice garden with some beautiful trees.
+		I'm going to make a table. First I need some wood.
+		Lesten to me carefully. I'm going to give you advice.
+		I want to write a letter. I need some paper and a pen.
+	Ex 67.4
+		eyes
+		hair
+		information
+		chair
+		furniture
+		job
+		lovely weather
 	
 
 		
