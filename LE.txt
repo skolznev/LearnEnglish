@@ -2260,6 +2260,23 @@ Page 148
 Page 150
 	Unit 71
 	Ex 71.1
+		I like tea.
+		I don't like TV quiz show.
+		I love loud music.
+		I hate parties.
+		I don't mind exams.
+		I like big cities.
+		I don't like museums.
+		I hate motor racing.
+	Ex 71.2
+		I'm not interested in politics.
+		I know a little about sport.
+		I don't know much about art.
+		I'm very interested in astronomy.
+		I don't know anything about economics.
+	Ex 71.3
+		friends
+		perties
 	
 
 
