@@ -2343,18 +2343,58 @@ Page 154
 		Is that your bicycle?
 		Are these your keys?
 		Are those your keys?
-		Is this your clock?
-		Is that your glasses?
-		Is this your gloves?
+		Is this your watch?
+		Are those your glasses?
+		Are these your gloves?
 	Ex 73.3
 		that's
 		This is
-		This is
+		That's
 		that
-		that's
+		this is
 		That's
 		that's
-	
+Page 156
+	Unit 74
+	Ex 74.1
+		No, I don't need one.
+		No, but I going to buy one.
+		I'm sorry but I haven't got one.
+		No, thank you. I just have one.
+		Yes, there's one in Mill Road.
+	Ex 74.2
+		a better one
+		a new one
+		a old one
+		a big one
+		a different one
+	Ex 74.3
+		Which ones?
+		The green ones.
+
+		Witch one?
+		The one with a red door.
+
+		Witch one?
+		The black one.
+
+		Witch ones?
+		The ones on the wall.
+
+		Witch ones?
+		The ones on the top shelf.
+
+		Witch one?
+		The one is tall with long hair.
+
+		Witch ones?
+		The yellow ones.
+
+		Witch one?
+		The one has got a moustache and glasses.
+
+		Witch ones?
+		I took ones on the beach last week.
 
 
 	
