@@ -2360,12 +2360,12 @@ Page 156
 		No, I don't need one.
 		No, but I going to buy one.
 		I'm sorry but I haven't got one.
-		No, thank you. I just have one.
+		No, thank you. I just had one.
 		Yes, there's one in Mill Road.
 	Ex 74.2
-		a better one
 		a new one
-		a old one
+		a better one
+		an old one
 		a big one
 		a different one
 	Ex 74.3
@@ -2391,11 +2391,25 @@ Page 156
 		The yellow ones.
 
 		Witch one?
-		The one has got a moustache and glasses.
+		The one with a moustache and glasses.
 
 		Witch ones?
-		I took ones on the beach last week.
-
+		The ones you took on the beach last week.
+Page 158
+	Unit 75
+	Ex 75.1
+		some
+		any
+		any
+		any
+		some
+		any
+		some
+		some
+		any + any
+		some + any
+		some
+	Ex 75.2
 
 	
 
