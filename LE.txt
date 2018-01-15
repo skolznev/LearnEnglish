@@ -2410,6 +2410,16 @@ Page 158
 		some + any
 		some
 	Ex 75.2
+		some letters
+		any photographs
+		any ... languages
+		some friends
+		some milk
+		any batteries
+		some ... air
+		some cheese
+		any help
+	Ex 75.3
 
 	
 
