@@ -2420,6 +2420,20 @@ Page 158
 		some cheese
 		any help
 	Ex 75.3
+		I have some.
+		I'm sorry but I haven't any money.
+		...so I haven't bought any.
+		...so I bought some.
+	Ex 75.4
+		something
+		anything
+		anything
+		Somebody
+		anything
+		anybody
+		something
+		anything
+		anybody
 
 	
 
