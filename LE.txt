@@ -2422,7 +2422,7 @@ Page 158
 	Ex 75.3
 		I have some.
 		I'm sorry but I haven't any money.
-		...so I haven't bought any.
+		...so I didn't buy any.
 		...so I bought some.
 	Ex 75.4
 		something
@@ -2434,7 +2434,31 @@ Page 158
 		something
 		anything
 		anybody
+Page 160
+	Unit 76
+	Ex 76.1
+		There are no shops near here.
+		Carol has got no free time.
+		There is no light in this room.
 
+		There isn't any tea in the pot.
+		There aren't any buses today.
+		Tom hasn't got any brothers or sisters.
+	Ex 76.2
+		any
+		any
+		no
+		any
+		no
+
+		any
+		no
+		any
+		no
+		None
+		any
+	Ex 76.3
+		
 	
 
 
