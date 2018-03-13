@@ -2515,7 +2515,32 @@ Page 162
 Page 164
 	Unit 78
 	Ex 78.1
+		something
+		somewhere
+		somebody
+	Ex 78.2
+		nowhere
+		nothing
+		nobody
 
+		I'm not going anythere.
+		I don't want anything.
+		I'm not looking for anybody.
+	Ex 78.3
+		anything
+		anything
+		somebody
+		anything
+		somebody + nobody
+		anything
+		Nobody
+		somebody
+		Nothing
+		anythere
+		somethere
+		anything
+		somebody
+	Ex 78.4
 		
 	
 
