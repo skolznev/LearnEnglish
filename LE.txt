@@ -2523,26 +2523,34 @@ Page 164
 		nothing
 		nobody
 
-		I'm not going anythere.
+		I'm not going anywhere.
 		I don't want anything.
 		I'm not looking for anybody.
 	Ex 78.3
 		anything
 		anything
 		somebody
-		anything
-		somebody + nobody
+		something
+		anybody + nobody
 		anything
 		Nobody
-		somebody
+		anybody
 		Nothing
-		anythere
-		somethere
+		anywhere
+		somewhere
 		anything
-		somebody
+		anybody
 	Ex 78.4
-		
-	
+		anything to eat
+		nothing to do
+		anywhere to sit
+		something to drink
+		nowhere to stay
+		something to read
+		somewhere to play
+Page 166
+	Unit 79
+	Ex 79.1
 
 
 
